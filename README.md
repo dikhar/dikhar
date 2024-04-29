@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hardik
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning new technologies 
+- 🌱 I’m currently learning new technologies
+- I'm Skilled in tech stacks like Spring, Spring Boot, Maven, MySql, Java, c++, Dsa
 
 
 <!---
